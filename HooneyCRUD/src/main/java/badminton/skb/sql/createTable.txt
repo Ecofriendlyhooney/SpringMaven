@@ -1,0 +1,5 @@
+CREATE TABLE skb2019 (
+  Id int(10) NOT NULL AUTO_INCREMENT,
+  name varchar(4000),
+  PRIMARY KEY (`id`)
+) ;
