@@ -1,5 +1,7 @@
 package badminton.skb.beans;
 
+import java.util.Date;
+
 public class Skb {
 	private int id;
 	private String name;

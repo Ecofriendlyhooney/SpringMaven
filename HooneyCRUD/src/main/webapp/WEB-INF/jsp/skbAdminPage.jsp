@@ -1,4 +1,3 @@
-
 <%@ taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 
@@ -9,7 +8,6 @@
 		<th>Name</th>
 		<th>Edit</th>
 		<th>Delete</th>
-		<!-- th>Edit</th><th>Delete</th> -->
 	</tr>
 	<c:forEach var="skb" items="${list}">
 		<tr>
